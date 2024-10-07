@@ -6,7 +6,8 @@
  
 **Project Description:** The goal of this project was to identify and analyze various factors influencing student performance. Key factors such as attendance, study hours, parental involvement, and socio-economic status were explored to understand their impact on academic outcomes. The data used for this project was from student records, including performance metrics (Exam Scores), attendance rates, study habits, parental background, and socio-economic factors. 
  
-**Key findings:** It was discovered that Male Students had higher exam scores compared to female students. Based on this
+**Key findings:** * It was discovered that Male Students had higher exam scores compared to female students. A clustered bar was used to analyse this finding.
+* 
  
 **Dashboard Overview:**
 ![Student](Student.png)
