@@ -23,3 +23,22 @@
 **Project Description:** The aim of this project is to analyze the relationship between COVID-19 deaths and vaccination rates using structured query language (SQL). This will provide insights into the effectiveness of vaccination programs in reducing fatalities across different regions and time periods. The analysis focus on two primary datasets. The COVID-19 Deaths Table was used which contains information on the number of deaths due to COVID-19, categorized by region, locations and time period. The second dataset used was the COVID-19 Vaccination Table which includes data on the vaccination rates, types of vaccines administered, doses given, and demographic details of the vaccinated population. It was ensured that both tables were formatted consistently and missing or erroneous data were handled to improve the accuracy of the analysis.The deaths and vaccination tables were merged together using relevant keys such as region, date, and demographic details. This step will facilitate comparative analysis between death rates and vaccination coverage. SQL queries were used to perform descriptive statistics on both datasets. This includes calculating total deaths, vaccination rates, and generating summaries based on regions, locations, and time periods.
  
 **Technology used:** SQL Server Management Studio 20
+
+
+
+# Project 3
+ 
+**Title:** [Techdrive Cookies Financial Report Interactive Dashboard(https://github.com/Bimboly/Bimboly.github.io/blob/main/Techdrive%20Cookies%20Financial%20Report%2020192020%20Dashboard.pbix)
+ 
+**Tools Used:** POWER BI (Power Query Editor and Visualisation)
+ 
+**Project Description:** The goal of this project was to identify and analyze various factors influencing student performance. Key factors such as attendance, study hours, parental involvement, and socio-economic status were explored to understand their impact on academic outcomes. The data used for this project was from student records, including performance metrics (Exam Scores), attendance rates, study habits, parental background, and socio-economic factors. 
+ 
+**Key findings:**
+ 
+**Dashboard Overview:**
+![Cookies](Cookies.png)
+
+
+
+
