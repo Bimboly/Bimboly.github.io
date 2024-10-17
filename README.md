@@ -28,7 +28,7 @@
 
 # Project 3
  
-**Title:** [Techdrive Cookies Financial Report Interactive Dashboard(https://github.com/Bimboly/Bimboly.github.io/blob/main/Techdrive%20Cookies%20Financial%20Report%2020192020%20Dashboard.pbix)
+**Title:** [Techdrive Cookies Financial Report Interactive Dashboard](https://github.com/Bimboly/Bimboly.github.io/blob/main/Techdrive%20Cookies%20Financial%20Report%2020192020%20Dashboard.pbix)
  
 **Tools Used:** POWER BI (Power Query Editor and Visualisation)
  
