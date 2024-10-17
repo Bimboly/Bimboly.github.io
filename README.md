@@ -10,3 +10,20 @@
  
 **Dashboard Overview:**
 ![Student](Student.png)
+
+
+
+# Project 2
+**Title:** [COVID Project - Data Exploration.sql](https://github.com/Bimboly/Bimboly.github.io/blob/main/COVID%20Project%20-%20Data%20Explorations.sql)
+ 
+**SQL Code:** 
+ 
+**SQL Skills Used:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+ 
+**Project Description:** The aim of this project is to analyze the relationship between COVID-19 deaths and vaccination rates using structured query language (SQL). This will provide insights into the effectiveness of vaccination programs in reducing fatalities across different regions and time periods. The analysis focus on two primary datasets:
+COVID-19 Deaths Table: Contains information on the number of deaths due to COVID-19, categorized by region, age group, gender, and time period.
+COVID-19 Vaccination Table: Includes data on the vaccination rates, types of vaccines administered, doses given, and demographic details of the vaccinated population.
+ 
+Project Description:
+ 
+**Technology used:** SQL Server Management Studio 20
