@@ -12,10 +12,12 @@
 ![Student](Student.png)
 
 
+
 # Project 2
+
 **Title:** [COVID Project - Data Exploration.sql](https://github.com/Bimboly/Bimboly.github.io/blob/main/COVID%20Project%20-%20Data%20Explorations.sql)
 
-**SQL Code:**  (https://github.com/Bimboly/Bimboly.github.io/blob/main/COVID%20Project%20-%20Data%20Explorations.sql)
+**SQL Code:** {COVID Project - Data Exploration)(https://github.com/Bimboly/Bimboly.github.io/blob/main/COVID%20Project%20-%20Data%20Explorations.sql)
 
 **SQL Skills Used:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
  
