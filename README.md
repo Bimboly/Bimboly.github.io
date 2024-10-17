@@ -32,7 +32,7 @@
  
 **Tools Used:** POWER BI (Power Query Editor and Visualisation)
  
-**Project Description:** The goal of this project was to identify and analyze various factors influencing student performance. Key factors such as attendance, study hours, parental involvement, and socio-economic status were explored to understand their impact on academic outcomes. The data used for this project was from student records, including performance metrics (Exam Scores), attendance rates, study habits, parental background, and socio-economic factors. 
+**Project Description:** The objective of this project is to analyze the financial performance of Cookies for the fiscal years 2019 and 2020 using Power BI data visualization tools. The project will provide a detailed financial overview, helping stakeholders understand key financial metrics, trends, and patterns over the two-year period. This project will focus on financial data, including revenue, expenses, profit margins, and other financial indicators from 2019 and 2020. Power BI will be used to transform raw financial data into insightful and interactive dashboards, enabling decision-makers to track financial performance and trends. Financial data from 2019 and 2020 was imported into Power BI from Excel source. This includes revenue, cost of goods sold (COGS), operational expenses, taxes, and profit figures.
  
 **Key findings:**
  
