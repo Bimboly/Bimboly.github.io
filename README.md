@@ -12,18 +12,13 @@
 ![Student](Student.png)
 
 
-
 # Project 2
 **Title:** [COVID Project - Data Exploration.sql](https://github.com/Bimboly/Bimboly.github.io/blob/main/COVID%20Project%20-%20Data%20Explorations.sql)
- 
-**SQL Code:** 
- 
+
+**SQL Code:**  (https://github.com/Bimboly/Bimboly.github.io/blob/main/COVID%20Project%20-%20Data%20Explorations.sql)
+
 **SQL Skills Used:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
  
-**Project Description:** The aim of this project is to analyze the relationship between COVID-19 deaths and vaccination rates using structured query language (SQL). This will provide insights into the effectiveness of vaccination programs in reducing fatalities across different regions and time periods. The analysis focus on two primary datasets:
-COVID-19 Deaths Table: Contains information on the number of deaths due to COVID-19, categorized by region, age group, gender, and time period.
-COVID-19 Vaccination Table: Includes data on the vaccination rates, types of vaccines administered, doses given, and demographic details of the vaccinated population.
- 
-Project Description:
+**Project Description:** The aim of this project is to analyze the relationship between COVID-19 deaths and vaccination rates using structured query language (SQL). This will provide insights into the effectiveness of vaccination programs in reducing fatalities across different regions and time periods. The analysis focus on two primary datasets. The COVID-19 Deaths Table was used which contains information on the number of deaths due to COVID-19, categorized by region, locations and time period. The second dataset used was the COVID-19 Vaccination Table which includes data on the vaccination rates, types of vaccines administered, doses given, and demographic details of the vaccinated population. It was ensured that both tables were formatted consistently and missing or erroneous data were handled to improve the accuracy of the analysis.The deaths and vaccination tables were merged together using relevant keys such as region, date, and demographic details. This step will facilitate comparative analysis between death rates and vaccination coverage. SQL queries were used to perform descriptive statistics on both datasets. This includes calculating total deaths, vaccination rates, and generating summaries based on regions, locations, and time periods.
  
 **Technology used:** SQL Server Management Studio 20
